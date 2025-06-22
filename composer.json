@@ -1,0 +1,14 @@
+{
+    "name": "ozbert/ad-meeting-calendar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ozbert",
+            "email": "sionbert0503@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8000 router.php"
+    },
+    "require": {}
+}
