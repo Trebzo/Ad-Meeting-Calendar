@@ -1,5 +1,7 @@
 services:
   ad-meeting-calendar:
+    volumes:
+      - ./.env:/var/www/html/.env
     build:
       context: .
     container_name: ad-meeting-calendar-service
