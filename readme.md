@@ -54,7 +54,7 @@
 
 ## Overview
 
-A meeting Calanedar that uses Database.
+A meeting Calendar that uses Database.
 
 ### Key Components
 
@@ -68,13 +68,7 @@ A meeting Calanedar that uses Database.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Framework/Library
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 #### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -144,9 +138,7 @@ AD-ProjectName
 ## Resources
 
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Title        | Purpose                                                             | Link                 |
+| ------------ | --------------------------------------------------------------------| -------------------- |
+| ChatGPT      | Used for solving problems when structuriing and running codes       | https://chatgpt.com/ |
+| Qodo Gen     | Used for solving problems when structuriing and running codes       | Extension on VScode  |
