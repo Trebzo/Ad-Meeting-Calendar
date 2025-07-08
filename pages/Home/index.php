@@ -21,8 +21,8 @@ ob_start();
 ?>
 <div class="home-container">
     <div class="greeting-card">
-        <h1 class="greeting-title">Hello, <?= htmlspecialchars($user['first_name'] . ' ' . $user['last_name']) ?>!</h1>
-        <p class="user-role">Role: <?= htmlspecialchars($user['role']) ?></p>
+        <h1 class="login-title">Login Successful</h1>
+        <h1 class="greeting-title">Greetings, <?= htmlspecialchars($user['first_name'] . ' ' . $user['last_name']) ?>!</h1>
         <p class="welcome-message">Welcome to the Meeting Calendar</p>
     </div>
 </div>
